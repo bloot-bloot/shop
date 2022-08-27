@@ -1,0 +1,21 @@
+форнт 
+
+
+
+бэк 
+АПИ: 
+GET user/login
+
+GET user/logout
+
+get all items 
+GET catalog/ 
+
+get item 
+GET catalog/:id
+
+cart 
+GET cart/
+POST cart/
+PATCH cart/:id 
+DELETE cart/:id 
